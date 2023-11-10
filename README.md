@@ -4,10 +4,10 @@
 ![Image text](result_show/p2.gif)
 #### Real time detection
 
-![[p1.gif|400]]
+![Image text](result_show/p1.gif)
 #### choose photo  to detect
 
-![[p3.gif|400]]
+![Image text](result_show/p3.gif)
 
-![[p4.gif|400]]
+![Image text](result_show/p4.gif)
 
