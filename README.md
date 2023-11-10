@@ -1,7 +1,7 @@
 # LeNet-Hands-Gesture-Recognition
 
 #### Taking photo to detect
-![[p2.gif|400]]
+![Image text](result_show/p2.gif)
 #### Real time detection
 
 ![[p1.gif|400]]
